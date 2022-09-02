@@ -1,5 +1,6 @@
-# learngo
-learn golang
+# Study notes
+[learn golang](https://www.yuque.com/u21679163/prnwxt/zaicku)
+
 
 # reference
 1. [gopl sample code](https://github.com/adonovan/gopl.io)
